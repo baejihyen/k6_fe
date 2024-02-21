@@ -1,0 +1,42 @@
+*{
+    /* background-color: rgb(216, 243, 234); */
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    padding: 2%;
+    /* width: 10%; */
+}
+nav{
+
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+fieldset{
+    background-color: rgb(207, 233, 233);
+}
+.HTML{
+    background-color: white;
+    border: none;
+    
+}
+.CSS{
+    background-color: white;
+    border: none;
+}
+.JS{
+    background-color: white;
+    border: none;
+    
+}
+.REACT{
+    background-color: white;
+    border: none;
+}
+.BL{
+    background-color: black;
+    color: white;
+}
