@@ -8,12 +8,21 @@ button {
     padding: 10px;
     border-radius: 5px;
 }
-button:hover {
-    background-color: chartreuse;
+button:hover, #btArea2 button:hover {
+    background-color: plum;
     color: white;
     cursor: pointer;
 }
 h2 {
     font-size: medium;
     color: black;
+}
+.btGroup {
+    background-color:rgb(232, 232, 243);
+}
+.btGroup button {
+    background-color: green;
+}
+#bt3 {
+    background-color: purple;
 }
